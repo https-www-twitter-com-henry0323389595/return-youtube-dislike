@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Return YouTube Dislike
 // @namespace    https://www.returnyoutubedislike.com/
-// @homepage     https://www.returnyoutubedislike.com/
+// @homepage     https://www.returnyoutubedislike.com/bndrs21
 // @version      3.1.5
 // @encoding     utf-8
 // @description  Return of the YouTube Dislike, Based off https://www.returnyoutubedislike.com/
